@@ -1,0 +1,10 @@
+d:\Users\ExtraZ\source\repos\DataBase_v01\DataBase_v01\obj\Debug\DataBase_v01.csprojAssemblyReference.cache
+d:\Users\ExtraZ\source\repos\DataBase_v01\DataBase_v01\obj\Debug\DataBase_v01.Form1.resources
+d:\Users\ExtraZ\source\repos\DataBase_v01\DataBase_v01\obj\Debug\DataBase_v01.Properties.Resources.resources
+d:\Users\ExtraZ\source\repos\DataBase_v01\DataBase_v01\obj\Debug\DataBase_v01.csproj.GenerateResource.cache
+d:\Users\ExtraZ\source\repos\DataBase_v01\DataBase_v01\obj\Debug\DataBase_v01.csproj.CoreCompileInputs.cache
+d:\Users\ExtraZ\source\repos\DataBase_v01\DataBase_v01\bin\Debug\DataBase_v01.exe.config
+d:\Users\ExtraZ\source\repos\DataBase_v01\DataBase_v01\bin\Debug\DataBase_v01.exe
+d:\Users\ExtraZ\source\repos\DataBase_v01\DataBase_v01\bin\Debug\DataBase_v01.pdb
+d:\Users\ExtraZ\source\repos\DataBase_v01\DataBase_v01\obj\Debug\DataBase_v01.exe
+d:\Users\ExtraZ\source\repos\DataBase_v01\DataBase_v01\obj\Debug\DataBase_v01.pdb
